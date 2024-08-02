@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1702958604 source:d:\code blocks\myacc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1705461515 source:d:\nibm\code blocks\myacc\main.c
+	<stdio.h>
+	<stdlib.h>
+
